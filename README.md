@@ -6,11 +6,13 @@ Title: Exploring Sentence Length Bias in Cook County Sentencing Data
 Authors: Adin McAuliffe, Jordan Miller, Sam Winchester, Sam O'Donnell 
 
 Table of Contents: 
-00_data_cleaning_merging 
-  Input: Cook County Sentencing Data sentencing_clean (.zip file)
-  Functionality 
-  Reads in sentencing clean data 
-  Creates some new variables 
+Code - contain 00_data_cleaning_merging 
+  00_data_cleaning_merging 
+    Input: Cook County Sentencing Data sentencing_clean (.zip file)
+    Functionality 
+    Reads in sentencing clean data 
+    Creates some new variables 
+sentencing_clean.csv.zip - Zip file containing sentencing_clean.csv which holds the clean sentencing data
 
 Description: 
 
