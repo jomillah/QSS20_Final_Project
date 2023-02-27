@@ -7,10 +7,10 @@ Authors: Adin McAuliffe, Jordan Miller, Sam Winchester, Sam O'Donnell
 
 Table of Contents: 
 00_data_cleaning_merging 
-Input: Cook County Sentencing Data jobs and debar (.csv files)
-Functionality 
-Reads in sentencing clean data 
-creates some new variables 
+  Input: Cook County Sentencing Data sentencing_clean (.zip file)
+  Functionality 
+  Reads in sentencing clean data 
+  Creates some new variables 
 
 Description: 
 
