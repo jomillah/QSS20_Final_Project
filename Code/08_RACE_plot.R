@@ -28,4 +28,4 @@ RACE_plot
 
 ## Exporting Plot 
 
-ggsave(file = "../Output/Visualizations/RACE_plot", plot = RACE_plot, units = "px", device = "png")
+ggsave(file = "../Output/Visualizations/RACE_plot.png", plot = RACE_plot, units = "px", device = "png")
