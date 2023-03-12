@@ -1,0 +1,25 @@
+,Sentence Severity
+const,-0.1326***
+,(0.0324)
+age_derived,0.0055***
+,(0.0002)
+is_guilty_plea,-0.2956***
+,(0.0180)
+nth_case,-0.0000***
+,(0.0000)
+is_female_derived,0.0535
+,(0.0552)
+is_innocent_plea,0.1629***
+,(0.0219)
+is_male_derived,0.1567***
+,(0.0546)
+is_black_derived,-0.0092
+,(0.0107)
+is_white_derived,-0.0393***
+,(0.0117)
+is_hisp_derived,-0.0467***
+,(0.0115)
+is_other_derived,-0.0375
+,(0.0256)
+R-squared,0.0215
+R-squared Adj.,0.0214
