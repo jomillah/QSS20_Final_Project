@@ -9,7 +9,18 @@
 
 This is the QSS20 Final Project Repository for Adin McAuliffe, Jordan Miller, Sam Winchester, Sam O'Donnell. In this project we use Cook County Sentencing Data to examine judicial biases in regards to race and gender. We examine how judges sentencing lengths vary based on race, gender, age and location and look at how these variations/disparities change over time.  
 
-ADD MORE HERE LATER.
+ADD MORE HERE LATER. 
+
+Rubric wants: 
+
+An informative README for the repository with a project overview, a clear description of your workflow, and a detailed description for each file:
+Inputs: e.g., raw data; a file containing credentials needed to access an API
+What the file does: describe major transformations.
+Outputs (if any): e.g., a cleaned dataset; a figure or graph
+
+Eunice Wants:
+
+description of scripts (how does each analysis of disparities relate to script), data source (where its stored), and elaborate on the research question
 
 ## Table of Contents: 
 
