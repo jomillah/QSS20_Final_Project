@@ -1,0 +1,11 @@
+,Feature,Importance
+0,is_guilty_plea,0.09350083212895025
+1,nth_case,0.38682680733778635
+2,is_female_derived,0.009375931675132372
+3,is_innocent_plea,0.0
+4,is_male_derived,0.04955010414505555
+5,is_black_derived,0.0346409823984445
+6,is_white_derived,0.024112595309624348
+7,is_hisp_derived,0.007185224914617121
+8,is_other_derived,0.009067589454828742
+9,age_derived,0.3857399326355608
