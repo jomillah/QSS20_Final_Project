@@ -11,10 +11,6 @@ Adin McAuliffe, Jordan Miller, Sam Winchester, Sam O'Donnell
 
 This is the QSS20 Final Project Repository for Adin McAuliffe, Jordan Miller, Sam Winchester, Sam O'Donnell. In this project we use Cook County Sentencing Data to examine judicial biases in regards to race and gender. We examine how judges sentencing lengths vary based on race, gender, age and location and look at how these variations/disparities change over time.  
 
-TO DO 
-- put in link to codebook 
-- update description 
-
 ## Table of Contents: 
 
 
@@ -110,7 +106,7 @@ TO DO
 
 ### Data 
 * [sentencing_cleaned.csv.zip](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Data/sentencing_cleaned.csv.zip), zip file containing sentencing_cleaned.csv
-* [sentencing_cleaned.csv](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Data/sentencing_cleaned.csv), csv file containing sentencing data unzipped from sentencing_cleaned.csv.zip originally cleaned by Jaren Haber from XYZ XYZ data
+* [sentencing_cleaned.csv](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Data/sentencing_cleaned.csv), csv file containing sentencing data unzipped from sentencing_cleaned.csv.zip originally cleaned by Jaren Haber. The original data set can be found [at the Cook County government's website](https://datacatalog.cookcountyil.gov/api/views/tg8v-tm6u/files/8597cdda-f7e1-44d1-b0ce-0a4e43f8c980?download=true&filename=CCSAO%20Data%20Glossary.pdf).
 * [sentencing_data_for_analysis.csv](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Data/sentencing_data_for_analysis.csv), csv file created in 02_creating_regression_variables containing cleaned sentencing data with all of the necessary variables for regression analysis 
 * [sentencing_data_withZ.csv](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Data/sentencing_data_withZ.csv), csv file created in 01_data_cleaning containing cleaned sentencing data including standardized sentence_length, sentence_length_zscore and with no outliers
 
