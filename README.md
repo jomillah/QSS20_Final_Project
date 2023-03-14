@@ -100,8 +100,8 @@ This is the QSS20 Final Project Repository for Adin McAuliffe, Jordan Miller, Sa
   * Tests model on test set of data 
   * Uses results of this test to create a feature importance table and an error table in order to visualize how well model does
 * Output: 
-   * RF_standard_error_table.csv, csv file containing table with error results of rain forest model training and testing
-   * RF_feature_importance_table, csv file containing table with feature importances for rain forest model 
+   * RF_standard_error_table.csv, csv file containing table with error results of random forest model training and testing
+   * RF_feature_importance_table, csv file containing table with feature importances for random forest model 
 
 
 ### Data 
@@ -115,8 +115,8 @@ This is the QSS20 Final Project Repository for Adin McAuliffe, Jordan Miller, Sa
 * [DT_feature_importance_table.csv](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Tables/DT_feature_importance_table.csv), csv file created in 05_Decision_Tree_model containing table with feature importances for decision tree model 
 * [DT_standard_error_table.csv](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Tables/DT_standard_error_table.csv), csv file created in 05_Decision_Tree_model containing table with mean squared error, mean absolute error and r-squared for decision tree model
 * [OLS_table](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Tables/OLS_table.csv), csv file created in 04_ols_model containing a table with results of regression model
-* [RF_feature_importance_table](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Tables/RF_feature_importance_table.csv), csv file created in 06_Random_Forest_model containing table with feature importances for Rain Forest Model 
-* [RF_standard_error_table](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Tables/RF_standard_error_table.csv), csv file created in 06_Random_Forest_model containing table with error results of rain forest model training and testing
+* [RF_feature_importance_table](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Tables/RF_feature_importance_table.csv), csv file created in 06_Random_Forest_model containing table with feature importances for Random Forest Model 
+* [RF_standard_error_table](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Tables/RF_standard_error_table.csv), csv file created in 06_Random_Forest_model containing table with error results of Random forest model training and testing
 * [Simplified_Summary_Table](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Tables/Simplified_Summary_Table.csv), csv file created in 00_inspecting_data containing table summarizing the data set 
 
 
@@ -125,3 +125,6 @@ This is the QSS20 Final Project Repository for Adin McAuliffe, Jordan Miller, Sa
 * [RACE_plot](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Visualizations/RACE_plot.png), png file of plot for Race vs Sentence Severity (With RACE) showing how a defendant's race impacts their sentencing severity created in 03_visualizations
 * [age_derived_plot](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Visualizations/age_derived_plot.png), png file of plot for Age vs Sentence Severity (With age_derived) showing how a defendant's age impacts their sentencing severity, created in 03_visualizations
 * [nth_case_plot](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Visualizations/nth_case_plot.png),  png file of plot Judge Experience vs Sentence Severity (With nth_case) showing how a judge's experience impacts the defendant's sentencing severity, created in 03_visualizations
+
+#### Final Paper 
+[Final_Paper]()xyz file containing final paper
