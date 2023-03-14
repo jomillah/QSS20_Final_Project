@@ -127,4 +127,4 @@ This is the QSS20 Final Project Repository for Adin McAuliffe, Jordan Miller, Sa
 * [nth_case_plot](https://github.com/jomillah/QSS20_Final_Project/blob/276173275b9c782025554d401b0edf7b23cd4b19/Output/Visualizations/nth_case_plot.png),  png file of plot Judge Experience vs Sentence Severity (With nth_case) showing how a judge's experience impacts the defendant's sentencing severity, created in 03_visualizations
 
 #### Final Paper 
-[Final_Paper]()xyz file containing final paper
+[Final_Paper](https://github.com/jomillah/QSS20_Final_Project/blob/2f5638e41449dd5bfbc20d09b36f0814ccd62df8/Final_Paper.pdf)pdf file containing final paper analyzing results from code 
